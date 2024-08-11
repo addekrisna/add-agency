@@ -32,7 +32,7 @@ const TeamsPage = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                 
             {teamMembers.map((member, index) => (
-                <div className="bg-white rounded-lg shadow-md p-6 my-6 text-center">
+                <div className="bg-white rounded-lg shadow-md p-6 my-6 text-center" key={member.name.first}>
                     <Image 
                         src={member.picture.large}
                         alt={`${member.name.first} ${member.name.last}`}

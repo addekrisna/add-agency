@@ -12,9 +12,9 @@ export default function Home() {
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-neutral-content text-center">
           <div className="max-w-md">
-            <h1 className="mb-5 text-5xl font-bold text-indigo-600">Transform Your Brand's Digital Presence</h1>
+            <h1 className="mb-5 text-5xl font-bold text-indigo-600">Transform Your Brand&apos;s Digital Presence</h1>
             <p className="mb-5">
-            Elevate your brand with cutting-edge digital strategies, captivating content, and unmatched creativity. Let's ADD more value to your brand today.
+            Elevate your brand with cutting-edge digital strategies, captivating content, and unmatched creativity. Let&apos;s ADD more value to your brand today.
             </p>
             {/* <button className="btn btn-primary">Get Started</button> */}
           </div>
@@ -69,7 +69,7 @@ export default function Home() {
             <div className="lg:pr-8 lg:pt-4">
               <div className="lg:max-w-lg">
                 {/* <h2 className="text-base font-semibold leading-7 text-indigo-600">Produce faster</h2> */}
-                <p className="mt-2 text-3xl font-bold tracking-tight text-indigo-600">ADD Agency's Overview</p>
+                <p className="mt-2 text-3xl font-bold tracking-tight text-indigo-600">ADD Agency&apos;s Overview</p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">Founded with a vision to redefine how brands communicate and connect in the digital age, ADD Agency has quickly established itself as a leading creative powerhouse in the digital media landscape. Our agency thrives on creativity, innovation, and a deep understanding of the ever-evolving digital ecosystem. We believe that every brand has a unique story to tell, and our mission is to help you tell that story in a way that resonates, engages, and drives meaningful connections with your audience.
                 </p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">At ADD Agency, we don’t just create digital content; we craft experiences that captivate and inspire. Our team of seasoned professionals, including digital strategists, designers, developers, and content creators, works collaboratively to deliver comprehensive solutions that elevate your brand’s presence across all digital platforms.
@@ -229,7 +229,7 @@ export default function Home() {
                     </path>
                   </svg> */}
                   <blockquote className="relative">
-                    <p className="text-lg tracking-tight">"Working with ADD Agency has been a game-changer for our brand. Their team took the time to understand our vision and brought it to life with creativity and precision. The digital campaigns they crafted not only captured our brand’s essence but also delivered exceptional results. Our online engagement has skyrocketed, and we’ve seen a significant increase in brand awareness. We couldn’t be happier with the partnership!"</p>
+                    <p className="text-lg tracking-tight">&quot;Working with ADD Agency has been a game-changer for our brand. Their team took the time to understand our vision and brought it to life with creativity and precision. The digital campaigns they crafted not only captured our brand&apos;s essence but also delivered exceptional results. Our online engagement has skyrocketed, and we&apos;ve seen a significant increase in brand awareness. We couldn&apos;t be happier with the partnership!&quot;</p>
                   </blockquote>
                   <figcaption className="relative mt-6 flex items-center justify-between border-t border-slate-100 pt-6">
                     <div>
@@ -254,7 +254,7 @@ export default function Home() {
                     </path>
                   </svg> */}
                   <blockquote className="relative">
-                    <p className="text-lg tracking-tight">"ADD Agency exceeded our expectations in every way. From the initial strategy sessions to the final deliverables, their attention to detail and commitment to excellence were evident. They transformed our website into a visually stunning, user-friendly platform that has drastically improved our customer experience. Their innovative approach to digital marketing has also driven a noticeable increase in our sales. ADD Agency truly added more value to our brand!"</p>
+                    <p className="text-lg tracking-tight">&quot;ADD Agency exceeded our expectations in every way. From the initial strategy sessions to the final deliverables, their attention to detail and commitment to excellence were evident. They transformed our website into a visually stunning, user-friendly platform that has drastically improved our customer experience. Their innovative approach to digital marketing has also driven a noticeable increase in our sales. ADD Agency truly added more value to our brand!&quot;</p>
                   </blockquote>
                   <figcaption className="relative mt-6 flex items-center justify-between border-t border-slate-100 pt-6">
                     <div>
@@ -279,7 +279,7 @@ export default function Home() {
                     </path>
                   </svg> */}
                   <blockquote className="relative">
-                    <p className="text-lg tracking-tight">"The team at ADD Agency is nothing short of exceptional. Their creative solutions and strategic insights helped us navigate the complexities of digital marketing with ease. They developed a comprehensive digital strategy that aligned perfectly with our business goals, and the results speak for themselves. Our social media presence has grown exponentially, and we’ve built a stronger connection with our audience. I highly recommend ADD Agency to any brand looking to elevate their digital presence."</p>
+                    <p className="text-lg tracking-tight">&quot;The team at ADD Agency is nothing short of exceptional. Their creative solutions and strategic insights helped us navigate the complexities of digital marketing with ease. They developed a comprehensive digital strategy that aligned perfectly with our business goals, and the results speak for themselves. Our social media presence has grown exponentially, and we’ve built a stronger connection with our audience. I highly recommend ADD Agency to any brand looking to elevate their digital presence.&quot;</p>
                   </blockquote>
                   <figcaption className="relative mt-6 flex items-center justify-between border-t border-slate-100 pt-6">
                     <div>
